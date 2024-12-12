@@ -1,4 +1,4 @@
-# CapstoneProject
+# README
 
 About the Project
 We will be using a dataset of biological metrics of three different species of Penguins found in the Palmer Archipelago of Antartica.
@@ -41,3 +41,8 @@ Bill Length (mm): Bill length in millimeters
 Bill Depth (mm): Bill depth in millimeters
 Flipper Length (mm): Flipper length in millimeters
 Health Metrics: Health status of the penguin (Healthy, Overweight, Underweight)
+
+Methods being used:
+Logistic Regression, Random Forest Selection, SVM, and basic Neural Networks. 
+
+I will be checking for the highest accuracy across all the data algorithms.
