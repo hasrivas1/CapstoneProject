@@ -46,3 +46,8 @@ Methods being used:
 Logistic Regression, Random Forest Selection, SVM, and basic Neural Networks. 
 
 I will be checking for the highest accuracy across all the data algorithms.
+
+INITIAL FINDINGS:
+Based on the four models built, neural networks indicated the highets accuracy and decision tree had the least accuracy. Both logistical regression and random forest selection had similar accuracy values to that of neural networks ranging around 80% and 90% respectively for species and sex. 
+
+We have also created confusion matrix to further review the correlations and have a better understanding of both the target variables.
